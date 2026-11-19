@@ -1,3 +1,15 @@
+> **This is Open Meridian's fork of [LEAN](https://github.com/QuantConnect/Lean)**, showing LEAN working with
+> [Open Meridian](https://open-meridian.dev). Our changes are on this branch (`open-meridian`); the `master`
+> branch tracks upstream unchanged.
+>
+> LEAN running strategies against an Open Meridian deployment's data and placing orders through its order path.
+>
+> **Status:** the integration isn't built yet. When it is, this section says how to run it locally against an Open
+> Meridian deployment. It isn't listed in Open Meridian's plugin registry.
+>
+> LEAN is licensed under Apache-2.0; this fork keeps that licence and its notices. It is not affiliated with or
+> endorsed by QuantConnect.
+
 <picture >
   <source media="(prefers-color-scheme: dark)" srcset="https://github.com/user-attachments/assets/f3581da5-1983-4f6c-af5a-55c79b37913a">
   <source media="(prefers-color-scheme: light)" srcset="https://github.com/user-attachments/assets/0f8022d5-952d-418c-9011-2644830137d2">
